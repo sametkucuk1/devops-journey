@@ -1,1 +1,2 @@
 Devops öğrenmeye başladım
+# Terminal dersleri tamamlandı
